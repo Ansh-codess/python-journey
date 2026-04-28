@@ -9,5 +9,6 @@ This repository contains my Python learning practice.
 - Functions
 - Lists
 - Projects
+- Pandas and Numpy
 
 I am uploading my progress daily as I learn.
