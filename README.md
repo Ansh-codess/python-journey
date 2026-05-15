@@ -10,5 +10,4 @@ This repository contains my Python learning practice.
 - Lists
 - Projects
 - Pandas and Numpy
-
 I am uploading my progress daily as I learn.
